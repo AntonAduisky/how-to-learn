@@ -1,0 +1,9 @@
+.footer__column-heading{
+    line-height:18px;
+    font-size:18px;
+    font-family: 'Inter-SemiBold', 'Arial' , sans-serif;
+    font-weight: 700;
+    /* margin-bottom:20px; */
+    margin:0;
+    padding-bottom:20px;
+  }

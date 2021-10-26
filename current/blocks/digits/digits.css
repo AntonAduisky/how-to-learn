@@ -1,0 +1,13 @@
+.digits{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 410px;
+    max-height: 780px;
+    background-color:#ffffff;
+    width: 100%;
+    box-sizing: border-box;
+    padding-top:100px;
+    padding-bottom:100px;
+  }

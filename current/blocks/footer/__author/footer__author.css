@@ -1,0 +1,10 @@
+.footer__author{
+  display: inline-block;
+    width: 183px;
+    height: 54px;
+    line-height: 25px;
+    font-size:18px;
+    font-family: 'Inter-Regular', 'Arial' , sans-serif;
+    font-weight: 400;
+    margin:0;
+  }
