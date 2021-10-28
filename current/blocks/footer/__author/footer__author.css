@@ -1,5 +1,4 @@
 .footer__author{
-  display: inline-block;
     width: 183px;
     height: 54px;
     line-height: 25px;
@@ -7,4 +6,9 @@
     font-family: 'Inter', 'Arial' , sans-serif;
     font-weight: 400;
     margin:0;
+    padding-top:18px;
+    padding-bottom:18px;
+    padding-left:0;
+    box-sizing: border-box;
   }
+
