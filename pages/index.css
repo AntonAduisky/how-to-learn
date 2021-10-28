@@ -10,7 +10,7 @@
 @import url(../current/blocks/header/__subtitle/header__subtitle.css);
 @import url(../current/blocks/header/__title/header__title.css);
 @import url(../current/blocks/header/logo/logo.css);
-@import url(../current/blocks/header/logo/_place_header/logo_place_header.css);
+@import url(../current/blocks/logo/_place/logo_place_header.css);
 
 @import url(../current/blocks/description/description.css);
 @import url(../current/blocks/description/two-columns/two-columns.css);
@@ -58,9 +58,9 @@
 @import url(../current/blocks/khan/__buy-link/khan__buy-link.css);
 
 @import url(../current/blocks/kaufman/kaufman.css);
-@import url(../current/blocks/kaufman/kaufman__triangle/kaufman__triangle.css);
-@import url(../current/blocks/kaufman/section-title/_theme_dark/section-title_theme_dark.css);
-@import url(../current/blocks/kaufman/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
+@import url(../current/blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../current/blocks/section-title/_theme_dark/section-title_theme_dark.css);
+@import url(../current/blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
 @import url(../current/blocks/kaufman/table/__cell/_theme_dark/table__cell_theme_dark.css);
 @import url(../current/blocks/kaufman/table/__heading/_theme_dark/table__heading_theme_dark.css);
 @import url(../current/blocks/kaufman/table/__text/_theme_dark/table__text_theme_dark.css);
@@ -72,10 +72,10 @@
 
 @import url(../current/blocks/footer/footer.css);
 @import url(../current/blocks/footer/__columns/footer__columns.css);
-@import url(../current/blocks/footer/__column/_content/_copyright//footer__column_content_copyright.css);
-@import url(../current/blocks/footer/__column/_content/_info/footer__column_content_info.css);
-@import url(../current/blocks/footer/__column/_content/_social/footer__column_content_social.css);
-@import url(../current/blocks/footer/logo/_place_footer/logo_place_footer.css);
+@import url(../current/blocks/footer/__column/_content/footer__column_content-copyright.css);
+@import url(../current/blocks/footer/__column/_content/footer__column_content-info.css);
+@import url(../current/blocks/footer/__column/_content/footer__column_content-social.css);
+@import url(../current/blocks/logo/_place/logo_place_footer.css);
 @import url(../current/blocks/footer/__author/footer__author.css);
 @import url(../current/blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../current/blocks/footer/__column-links/footer__column-links.css);

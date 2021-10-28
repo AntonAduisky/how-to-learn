@@ -1,6 +1,7 @@
 .footer__author{
-    width: 183px;
-    height: 54px;
+    max-width: 183px;
+    width: 100%;
+    min-height: 54px;
     line-height: 25px;
     font-size:18px;
     font-family: 'Inter', 'Arial' , sans-serif;
@@ -10,5 +11,6 @@
     padding-bottom:18px;
     padding-left:0;
     box-sizing: border-box;
+    color: #FFFFFF;
   }
 
