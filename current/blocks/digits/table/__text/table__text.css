@@ -1,11 +1,11 @@
-.table__text{ 
-    line-height: 1.2;
-    font-size: 18px;
-    font-family: 'Inter','Arial' , sans-serif;
-    font-weight: 400;
-    padding-top: 20px;
-    margin:0;
-  }
-  .table__text:last-child(2){
-    margin-top:20px;
-  } 
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 400;
+  padding-top: 20px;
+  margin: 0;
+}
+.table__text:last-child(2) {
+  margin-top: 20px;
+}

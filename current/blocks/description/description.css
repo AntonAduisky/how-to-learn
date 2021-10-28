@@ -1,11 +1,11 @@
-.description{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    min-height: 410px;
-    background-color:#ffffff;
-    overflow: hidden;
-    box-sizing: border-box;
-    padding-top: 100px;
-    padding-bottom:100px;
-  }
+.description {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  min-height: 410px;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}

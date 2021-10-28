@@ -1,10 +1,10 @@
-.techniques{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 80%;
-    background-color:#ffffff;
-    overflow: hidden; 
-    box-sizing: border-box;
-  }
+.techniques {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-sizing: border-box;
+}

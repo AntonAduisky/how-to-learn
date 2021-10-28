@@ -1,12 +1,12 @@
-.footer{
-    display: flex;
-    justify-content: center;
-    box-sizing: border-box;
-    min-width: 1100px;
-    max-width: 1600px;
-    padding-top:60px;
-    padding-bottom:40px;
-    min-height: 350px;
-    box-sizing:border-box;
-    background-color: #1D1D1D;
-  }
+.footer {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 1100px;
+  max-width: 1600px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  min-height: 350px;
+  box-sizing: border-box;
+  background-color: #1d1d1d;
+}

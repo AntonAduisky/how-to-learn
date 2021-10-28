@@ -1,7 +1,7 @@
-.two-columns{
-    display:flex;
-    justify-content: space-between;
-    width:80%;
-    min-width: 784px;
-    padding:0;
-  }
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  min-width: 784px;
+  padding: 0;
+}

@@ -1,13 +1,11 @@
-.cards__item{
-    position: relative;
-    width: 240px;
-    margin:0;
-
-    
-  }
-  .cards__item:nth-of-type(n){
-    padding-right:100px;
-  }
-  .cards__item:nth-of-type(3n){
-    padding-right:0;
-  }
+.cards__item {
+  position: relative;
+  width: 240px;
+  margin: 0;
+}
+.cards__item:nth-of-type(n) {
+  padding-right: 100px;
+}
+.cards__item:nth-of-type(3n) {
+  padding-right: 0;
+}

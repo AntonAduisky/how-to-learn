@@ -1,9 +1,9 @@
-.oakley{
-    display: flex;
-    justify-content: center;
-    min-width: 1100px;
-    min-height: 410px;
-    box-sizing: border-box;
-    padding-top:160px;
-    background-color:#F2F2F2;
-  }
+.oakley {
+  display: flex;
+  justify-content: center;
+  min-width: 1100px;
+  min-height: 410px;
+  box-sizing: border-box;
+  padding-top: 160px;
+  background-color: #f2f2f2;
+}

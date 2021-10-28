@@ -1,16 +1,16 @@
-.khan__buy-link{
-    margin:0;
-    text-decoration: none;
-    padding-left: 48px;
-    line-height: 42px;
-    font-size:30px;
-    color: #2F80ED;
-    transition: opacity .2s linear;
-    font-family: 'Inter', 'Arial' , sans-serif;
-    font-weight: 400;
+.khan__buy-link {
+  margin: 0;
+  text-decoration: none;
+  padding-left: 48px;
+  line-height: 42px;
+  font-size: 30px;
+  color: #2f80ed;
+  transition: opacity 0.2s linear;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 400;
 }
-.khan__buy-link:hover{
-    opacity: 0.7;
-    transition:opacity 0.5s ease-in-out;
-    -webkit-transition: opacity 0.5s ease-in-out;
-    }
+.khan__buy-link:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+}
