@@ -29,7 +29,7 @@
 
 <details><summary><b>Развернуть</b></summary>
 
-[![how-to-learn](https://ibb.co/6NNsWZF)](https://antonaduisky.github.io/how-to-learn/)
+[![how-to-learn](https://user-images.githubusercontent.com/92729800/204333378-fe6587a9-8fa9-44ff-b8f3-c82c5750cbd9.png)](https://antonaduisky.github.io/how-to-learn/)
 
 </details>
 
