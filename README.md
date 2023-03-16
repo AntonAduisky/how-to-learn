@@ -16,6 +16,7 @@
 
 ## Брифы Проектной работы:
 
+- [Макет Figma](https://www.figma.com/proto/4Xj9xAwUzLNv6W7AEVcMnx/long-brief?node-id=11900-113)
 - [Бриф 1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf);
 - [Бриф 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf);
 
@@ -28,9 +29,10 @@
 
 <details><summary><b>Развернуть</b></summary>
 
-[![how-to-learn](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fhowtolearn.jpg)](https://antonaduisky.github.io/how-to-learn/)
+[![how-to-learn](https://ibb.co/6NNsWZF)](https://antonaduisky.github.io/how-to-learn/)
 
 </details>
+
 ### Антон Адуйский
 
 - [Telegram](https://t.me/aduiskywalker)
